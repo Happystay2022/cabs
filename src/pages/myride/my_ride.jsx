@@ -4,7 +4,7 @@ import { baseUrl } from "../../../baseUrl";
 import SeatConfigUpdate from "./seat_update";
 import CarUpdate from "./car_details_update";
 
-
+//no chnages
 // Chart Components (You can replace these with your preferred charting library like Chart.js, Recharts, etc.)
 const RevenueBarChart = ({ data }) => {
     return (
